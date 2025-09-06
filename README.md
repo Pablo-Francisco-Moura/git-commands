@@ -20,6 +20,4 @@ Cada arquivo `.md` representa um guia ou tutorial. Por exemplo:
 
 Você pode abrir cada guia individualmente:
 
-```markdown
 - [Multiple Git Users](multiple-git-users.md)
-```
