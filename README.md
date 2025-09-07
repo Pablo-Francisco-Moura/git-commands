@@ -1,4 +1,4 @@
-# Git Ccomands
+# Git Commands
 
 ## 🎯 Objetivo
 
